@@ -1,0 +1,8 @@
+[package]
+name = "hello"
+version = "0.1.0"
+authors = ["Wu Young <doomsplayer@gmail.com>"]
+
+[dependencies]
+rust-apex = {git = "https://github.com/doomsplayer/rust-apex.git"}
+serde_json = "0.8.0"
