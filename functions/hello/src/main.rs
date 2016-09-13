@@ -29,4 +29,3 @@ fn main() {
         bt.insert("i", input);
         Ok(bt)
     });
-}
